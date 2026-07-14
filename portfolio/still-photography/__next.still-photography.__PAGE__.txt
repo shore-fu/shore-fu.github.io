@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[25607,["/portfolio/_next/static/chunks/0t8s4xffkam35.js","/portfolio/_next/static/chunks/0qydos6myou.s.js","/portfolio/_next/static/chunks/10v.5lmbrx.tt.js","/portfolio/_next/static/chunks/0ueh9x8-4eqk9.js","/portfolio/_next/static/chunks/0g959wn34fmz7.js","/portfolio/_next/static/chunks/0spl4vvfihy7c.js","/portfolio/_next/static/chunks/0ve.1wu7bby_4.js"],"default"]
-3:I[52130,["/portfolio/_next/static/chunks/0t8s4xffkam35.js","/portfolio/_next/static/chunks/0qydos6myou.s.js","/portfolio/_next/static/chunks/10v.5lmbrx.tt.js","/portfolio/_next/static/chunks/0ueh9x8-4eqk9.js"],"OutletBoundary"]
+2:I[8809,["21","static/chunks/21-6334bcea9fb0040c.js","189","static/chunks/189-a8976e2d62cb2dca.js","960","static/chunks/960-7a5cc6b9bf0bf933.js","373","static/chunks/373-d4a6a20025508319.js","253","static/chunks/app/still-photography/page-2a8d85a330e3da06.js"],"default"]
+3:I[6325,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-:HL["/portfolio/_next/static/chunks/0xw.os6b9b.9n.css","style"]
-0:{"rsc":["$","$1","c",{"children":[[["$","h1",null,{"className":"sr-only","children":"A still photography portfolio gallery by Theo Ribeiro"}],["$","$L2",null,{}]],[["$","link","0",{"rel":"stylesheet","href":"/portfolio/_next/static/chunks/0xw.os6b9b.9n.css","precedence":"next"}],["$","script","script-0",{"src":"/portfolio/_next/static/chunks/0g959wn34fmz7.js","async":true}],["$","script","script-1",{"src":"/portfolio/_next/static/chunks/0spl4vvfihy7c.js","async":true}],["$","script","script-2",{"src":"/portfolio/_next/static/chunks/0ve.1wu7bby_4.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"W0IHwA7u-0LfTWJjt5H6Q"}
+:HL["/portfolio/_next/static/css/b9eccb7efcefa733.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","h1",null,{"className":"sr-only","children":"A still photography portfolio gallery by Theo Ribeiro"}],["$","$L2",null,{}]],[["$","link","0",{"rel":"stylesheet","href":"/portfolio/_next/static/css/b9eccb7efcefa733.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4-gqi8TSUqdO8JtOxOByg"}
 5:null
