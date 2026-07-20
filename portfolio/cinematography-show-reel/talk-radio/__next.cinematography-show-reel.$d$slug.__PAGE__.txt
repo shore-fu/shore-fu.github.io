@@ -2,5 +2,5 @@
 2:I[4240,["21","static/chunks/21-6334bcea9fb0040c.js","189","static/chunks/189-8fd0afa137404a9c.js","960","static/chunks/960-7a5cc6b9bf0bf933.js","750","static/chunks/750-cebb321882dee8cd.js","274","static/chunks/274-e60eff9d4a34117f.js","237","static/chunks/app/cinematography-show-reel/%5Bslug%5D/page-bdb8083b748c5b20.js"],"default"]
 3:I[6325,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[[["$","h1",null,{"className":"sr-only","children":"Theo Ribeiro Cinematography Show Reel"}],["$","$L2",null,{}]],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JwGBokoMvSgBixfNHQhVH"}
+0:{"rsc":["$","$1","c",{"children":[[["$","h1",null,{"className":"sr-only","children":"Theo Ribeiro Cinematography Show Reel"}],["$","$L2",null,{}]],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"P1FTkumab_2QZL_LRLQeq"}
 5:null
