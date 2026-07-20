@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[8809,["21","static/chunks/21-6334bcea9fb0040c.js","189","static/chunks/189-a8976e2d62cb2dca.js","960","static/chunks/960-7a5cc6b9bf0bf933.js","373","static/chunks/373-d4a6a20025508319.js","253","static/chunks/app/still-photography/page-2a8d85a330e3da06.js"],"default"]
+2:I[8809,["21","static/chunks/21-6334bcea9fb0040c.js","189","static/chunks/189-8fd0afa137404a9c.js","960","static/chunks/960-7a5cc6b9bf0bf933.js","981","static/chunks/981-928583d9adf38e6f.js","253","static/chunks/app/still-photography/page-d7408d0ab01800c0.js"],"default"]
 3:I[6325,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-:HL["/portfolio/_next/static/css/b9eccb7efcefa733.css","style"]
-0:{"rsc":["$","$1","c",{"children":[[["$","h1",null,{"className":"sr-only","children":"A still photography portfolio gallery by Theo Ribeiro"}],["$","$L2",null,{}]],[["$","link","0",{"rel":"stylesheet","href":"/portfolio/_next/static/css/b9eccb7efcefa733.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4-gqi8TSUqdO8JtOxOByg"}
+:HL["/portfolio/_next/static/css/3b7d8099e2cfb1fc.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","h1",null,{"className":"sr-only","children":"A still photography portfolio gallery by Theo Ribeiro"}],["$","$L2",null,{}]],[["$","link","0",{"rel":"stylesheet","href":"/portfolio/_next/static/css/3b7d8099e2cfb1fc.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JwGBokoMvSgBixfNHQhVH"}
 5:null
